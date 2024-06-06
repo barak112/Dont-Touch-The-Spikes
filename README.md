@@ -1,4 +1,4 @@
-# Dont-Touch-The-Spikes
+# Dont Touch The Spikes - Assembly project
 
 This is my 10th grade assembly project i have made throught the year.
 All commented and working, it is my own assembly version of the popular game "Don't Touch The Spikes".
